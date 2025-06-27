@@ -47,7 +47,7 @@ These instructions will get a copy of the project up and running on your local m
 
 The `requirements.txt` file has many more packages listed but these are for my data project development environment and some of them may not be explicitly necessary here.
 
-If you want to replicate my work, you only need the listed items. I do my programming in Visual Studio Code (VS Code), so if you want to follow along in my environment, continue reading. Otherwise, you can skip to [Usage](#usage) or take a look at the [notebook](code/notebook.ipynb)
+If you want to replicate my work, you only need the listed items. I do my programming in Visual Studio Code (VS Code), so if you want to follow along in my environment, continue reading. Otherwise, you can skip to [Usage](#usage) or take a look at the [notebook](code/notebook.ipynb).
 
 ### On your computer
 
@@ -100,11 +100,11 @@ If you set up a virtual environment using [the first method](#method-1-command-p
 
 ##### Set up interpreter and kernel
 
-1. Type "interpreter" into the "command palette" (`Ctrl+Shift+P` on Windows) to select you interpreter. If you see an interpreter option with your version of Python matching the directory where
+1. Type "interpreter" into the "command palette" (`Ctrl+Shift+P` on Windows) to select your interpreter.
 
     > If you do not see an interpreter matching the version of Python you are using, browse to it using the "Enter interpreter path..." option.
 
-2. If VS Code does not automatically select a kernel for you, as indicated by a button near the upper right corner of the application window, you can either press that button or use the command palette to select a kernel using the option "Notebook: Select Notebook Kernel".
+2. If VS Code does not automatically select a kernel for you--as indicated by a button near the upper right corner of the application window--you can either press that button or use the command palette to select a kernel using the option "Notebook: Select Notebook Kernel".
 
     > This step must be performed with the window focused on the Jupyter notebook file (`notebook.ipynb`).
 

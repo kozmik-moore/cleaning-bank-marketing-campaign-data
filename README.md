@@ -12,6 +12,12 @@ This is a simple data cleaning project that I completed on DataCamp and decided 
 
 It is a bonus coursework module for the **[Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python)** career track. I saw it as an opportunity to practice some fundamentals with `pandas`, as well as practice for hosting projects on GitHub and writing articles for LinkedIn.
 
+To read the LinkedIn article, go [here](https://www.linkedin.com/pulse/project-debrief-cleaning-bank-marketing-data-kozmik-moore-fqvsc/).
+
+### Who this is for
+
+This project is for any headhunters hoping to see some of my work. It can also be for other people looking for a data analysis project that is already started for them, along with a tutorial on setting up a development environment using Visual Studio Code (VS Code).
+
 ### Project structure
 
 ```
@@ -47,11 +53,11 @@ These instructions will get a copy of the project up and running on your local m
 
 The `requirements.txt` file has many more packages listed but these are for my data project development environment and some of them may not be explicitly necessary here.
 
-If you want to replicate my work, you only need the listed items. I do my programming in Visual Studio Code (VS Code), so if you want to follow along in my environment, continue reading. Otherwise, you can skip to [Usage](#usage) or take a look at the [notebook](code/notebook.ipynb).
+If you want to replicate my work, you only need the listed items. I do my programming in VS Code, so if you want to follow along in my environment, continue reading. Otherwise, you can skip to [Usage](#usage) or take a look at the [notebook](code/notebook.ipynb).
 
 ### On your computer
 
-1. Download VS Code and install it. You can get help with that [at their website](https://code.visualstudio.com/download).
+1. Download Visual Studio Code (VS Code) and install it. You can get help with that [at their website](https://code.visualstudio.com/download).
 2. Download and install Python. I recommend [version 3.11](https://www.python.org/downloads/release/python-3119/), at least.
 3. Download the files from this repository and place them somewhere you have appropriate permissions to access.
 4. Start up VS Code.
